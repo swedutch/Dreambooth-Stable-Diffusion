@@ -1,6 +1,6 @@
 # Index
 
-- [Notes by Joe Penna](#notes-by-joe-penna)
+- [Notes](#notes)
 - [Setup](#setup)
   - [Easy RunPod Instructions](#easy-runpod-instructions)
   - [Vast.AI Setup](#vast-ai-setup)
@@ -15,9 +15,11 @@
 # The Repo Formerly Known As "Dreambooth"
 ![image](https://user-images.githubusercontent.com/100188076/192390551-cb89364f-af57-4aed-8f3d-f9eb9b61cf95.png)
 
-## <a name="notes-by-joe-penna"></a>  Notes by Joe Penna
+## <a name="notesa"></a>  Notes
 ### **INTRODUCTIONS!**
-Hi! My name is Joe Penna.
+Note from Nils: This Repo is a fork cloned from Joe Penna's https://github.com/JoePenna/Dreambooth-Stable-Diffusion. I've made slight edits for my own ease of use, but check out original repo for latest updates.
+
+----
 
 You might have seen a few YouTube videos of mine under *MysteryGuitarMan*. I'm now a feature film director. You might have seen [ARCTIC](https://www.youtube.com/watch?v=N5aD9ppoQIo&t=6s) or [STOWAWAY](https://www.youtube.com/watch?v=A_apvQkWsVY).
 
